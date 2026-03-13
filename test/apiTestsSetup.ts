@@ -2,7 +2,7 @@
  * Copyright (c) 2014-2022 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
  */
-
+// this is a comment
 import server = require('./../server')
 
 // eslint-disable-next-line no-async-promise-executor,@typescript-eslint/no-misused-promises
